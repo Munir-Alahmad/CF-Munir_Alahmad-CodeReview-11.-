@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(0, 139, 139);
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 420px;
+    padding: 30px;
+    width: 500px;
+    border: 1px solid gray;
+    background-color: rgb(127, 205, 190);
+    border-radius: 5px;
+}
+
+.w-100 h2 {
+    text-align: center;
+}
+
+.text-danger {
+    padding: 1px;
+}
+
+#but2 {
+    margin-top: 25px;
+    margin-left: 150px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+
+a:hover {
+    font-size: x-large;
+    color: rgb(17, 0, 255);
+}
+
+.lug {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+}
